@@ -80,9 +80,9 @@ pip install pandas numpy matplotlib seaborn
 
 After installing the necessary libraries, you can run the script in any Python environment by downloading the dataset and executing the script provided in this repository.
 
-**Conclusion**
+## Conclusion
 This analysis provides a clear overview of the dynamics of the Airbnb market in New York City. By understanding which areas and room types command higher prices, and seeing the relationship between reviews and price, hosts and customers can make more informed decisions.
 
-### Future Improvements
-## Perform more detailed spatial analysis using latitude and longitude to visualize listings on a map.
-## Incorporate machine learning models to predict prices based on available features.
+## Future Improvements
+### Perform more detailed spatial analysis using latitude and longitude to visualize listings on a map.
+### Incorporate machine learning models to predict prices based on available features.
